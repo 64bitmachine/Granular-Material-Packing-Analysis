@@ -11,6 +11,8 @@ pip3 install scikit-image
 pip3 install SimpleITK
 pip3 install itk
 pip3 install vtk
+pip3 install h5py
+pip3 install numba
 sudo apt install libboost-numpy-dev
 sudo apt-get install build-essential
 sudo apt-get install libboost-all-dev
